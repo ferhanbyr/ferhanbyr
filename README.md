@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/ee06f1e7-da69-4785-8f5c-d9aaa3958314](https://github.com/user-attachments/assets/aabf19fb-12dd-49b5-a3d3-eacb1fd22743)" alt="Gif" />
+  <img src="https://github.com/user-attachments/assets/aabf19fb-12dd-49b5-a3d3-eacb1fd22743" alt="Gif" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
